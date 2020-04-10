@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Overview](#Overview)
 2. [Product Spec](#Product-Spec)
-3. [App Walkthrough](#App-Walkthrough)
+3. [App Preview](#App-Preview)
 5. [Credits](#Credits)
 
 ## Overview
@@ -14,13 +14,13 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 ## Product Spec
 ### User Stories
 
-- [ ] User shall be able to see my contact details.
+- [X] User shall be able to see my contact details.
 
 ## App Walkthrough
 
-Here's a GIF of how the app works:
+Here's a image preview of how the app looks:
 
-<img src="ADD_GIF_LINK" width=250><br>
+<img src="https://i.imgur.com/J0jFKdA.png" width=250><br>
 
 ## Credits
 
