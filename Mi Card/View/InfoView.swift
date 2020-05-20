@@ -10,6 +10,7 @@ import SwiftUI
 
 struct InfoView: View {
     
+    // MARK: - Properties
     let text: String
     let imageName: String
     
