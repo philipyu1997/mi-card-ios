@@ -20,7 +20,7 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 
 Here's a image preview of how the app looks:
 
-<img src="https://user-images.githubusercontent.com/35745973/81491196-0c4a9c80-9240-11ea-8e3e-a5d79458729e.png" width=400>
+<img src="https://github.com/py415/app-resources/blob/master/ios/ios-mi-card.png" width=250>
 
 ## Credits
 
