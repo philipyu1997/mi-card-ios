@@ -1,10 +1,10 @@
 # 📇 Mi Card
 
 ## 📋 Table of Contents
-1. [Overview](#Overview)
-2. [Product Specs](#Product-Specs)
-3. [App Preview](#App-Preview)
-5. [Credits](#Credits)
+1. [Overview](#-Overview)
+2. [Product Specs](#-Product-Specs)
+3. [App Preview](#-App-Preview)
+5. [Credits](#-Credits)
 
 ## 👀 Overview
 ### Description
